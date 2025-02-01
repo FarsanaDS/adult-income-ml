@@ -5,7 +5,7 @@ import joblib
 from PIL import Image
 
 # Load the trained model
-model = joblib.load(open(r'C:\Users\R-admin\farsana\Machine_learning\project\xgboost_model', 'rb'))
+model = joblib.load(open(r'xgboost_model', 'rb'))
 
 # Title of the app
 st.title("Income Prediction App")

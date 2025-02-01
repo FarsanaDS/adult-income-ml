@@ -3,15 +3,17 @@ import pandas as pd
 import numpy as np
 import joblib
 from PIL import Image
+import os
 
 # Load the trained model
-model = joblib.load(open(r'xgboost_model', 'rb'))
+model_path = os.path.join(os.getcwd(), "xgboost_model")
+model = joblib.load(open(model_path, 'rb'))
 
 # Title of the app
 st.title("Income Prediction App")
 st.write("This app predicts whether a person earns more than $50K or not based on the given inputs.")
 
-img = Image.open(r'C:\Users\R-admin\farsana\Machine_learning\project\pred.jpg')
+img = Image.open(r'pred.jpg')
 st.image(img, width=600)
 
 # Function to map user-friendly education names to education.num

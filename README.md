@@ -6,9 +6,9 @@ This project predicts whether a person earns *more than $50K per year* based on 
 We use the *Adult Income Dataset* from the 1994 Census Bureau database and apply *Machine Learning* techniques to classify income levels.  
 
 ## 📂 Dataset Details  
-- *Source*: [Kaggle - Adult Income Dataset](https://www.kaggle.com/datasets/uciml/adult-census-income)
-- *Rows: 32,562 | **Columns*: 15  
-- *Features*: Age, Education, Occupation, Work Hours, etc.  
+- *Source* : [Kaggle - Adult Income Dataset](https://www.kaggle.com/datasets/uciml/adult-census-income)
+- *Rows* : 32,562 | *Columns* : 15  
+- *Features* : Age, Education, Occupation, Work Hours, etc.  
 
 ## 🚀 Project Workflow  
 ### *⿡ Data Preprocessing*  
@@ -43,23 +43,23 @@ Status, and Occupation.*
 
 ## 📌 How to Run the Project?  
 1- Clone the repository:
-git clone https://github.com/FarsanaDS/adult-income-ml.git
+`git clone https://github.com/FarsanaDS/adult-income-ml.git`
 
 2- Install dependencies:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3- Run the Jupyter Notebook:
-jupyter notebook
+`jupyter notebook`
 
 📜 Future Improvements
 
-🔹 Improve feature engineering
-🔹 Experiment with Deep Learning models
-🔹 Deploy on Hugging Face Spaces or Render
+- Improve feature engineering
+- Experiment with Deep Learning models
+- Deploy on Hugging Face Spaces or Render
 
 📌 Contact & Connect
 
-💻 GitHub: https://github.com/FarsanaDS
-📧 Email: farsanathesni02@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/farsana-thasnem-pa-03553631a
+- 💻 GitHub: https://github.com/FarsanaDS
+- 📧 Email: farsanathesni02@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/farsana-thasnem-pa-03553631a
 

@@ -42,14 +42,14 @@ Status, and Occupation.*
 👉 [Try the Model Here](https://adult-income-ml-yinukwr2zmrufo8wxdkcqb.streamlit.app/)  
 
 ## 📌 How to Run the Project?  
-1- Clone the repository:  
-   git clone https://github.com/FarsanaDS/adult-income-ml.git
+1- Clone the repository:
+git clone https://github.com/FarsanaDS/adult-income-ml.git
 
 2- Install dependencies:
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 3- Run the Jupyter Notebook:
-   jupyter notebook
+jupyter notebook
 
 📜 Future Improvements
 

@@ -56,7 +56,7 @@ Status, and Occupation.*
 - Deploy on Hugging Face Spaces or Render
 
 ## 📌 Contact & Connect
-- 💻 **GitHub** : https://github.com/FarsanaDS
+- 💻 GitHub : https://github.com/FarsanaDS
 - 📧 **Email** : farsanathesni02@gmail.com
 - 🔗 **LinkedIn** : www.linkedin.com/in/farsana-thasnem-pa-03553631a
 

@@ -1,4 +1,3 @@
-# Adult Income Prediction
 # 🔍 Adult Income Prediction - Machine Learning Project  
 
 ## 📌 Overview  
@@ -51,15 +50,13 @@ Status, and Occupation.*
 3- Run the Jupyter Notebook:
 `jupyter notebook`
 
-📜 Future Improvements
+## 📜 Future Improvements
+🔹 Improve feature engineering
+🔹 Experiment with Deep Learning models
+🔹 Deploy on Hugging Face Spaces or Render
 
-- Improve feature engineering
-- Experiment with Deep Learning models
-- Deploy on Hugging Face Spaces or Render
-
-📌 Contact & Connect
-
-- 💻 GitHub: https://github.com/FarsanaDS
-- 📧 Email: farsanathesni02@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/farsana-thasnem-pa-03553631a
+## 📌 Contact & Connect
+💻 GitHub: https://github.com/FarsanaDS
+📧 Email: farsanathesni02@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/farsana-thasnem-pa-03553631a
 

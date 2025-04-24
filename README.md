@@ -38,7 +38,7 @@ Status, and Occupation.*
 ✅ *Git & GitHub* for version control  
 
 ##  Live Demo  
-👉 [Try the Model Here](https://adult-income-ml-yinukwr2zmrufo8wxdkcqb.streamlit.app/)  
+ [Try the Model Here](https://adult-income-ml-yinukwr2zmrufo8wxdkcqb.streamlit.app/)  
 
 ##  How to Run the Project?  
 1- Clone the repository:

@@ -32,10 +32,10 @@ We use the *Adult Income Dataset* from the 1994 Census Bureau database and apply
 Status, and Occupation.* 
 
 ##  Tech Stack  
-✅ *Python* (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn)  
-✅ *Jupyter Notebook* for ML modeling  
-✅ *Streamlit* for deployment  
-✅ *Git & GitHub* for version control  
+- *Python* (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn)  
+- *Jupyter Notebook* for ML modeling  
+- *Streamlit* for deployment  
+- *Git & GitHub* for version control  
 
 ##  Live Demo  
  [Try the Model Here](https://adult-income-ml-yinukwr2zmrufo8wxdkcqb.streamlit.app/)  
